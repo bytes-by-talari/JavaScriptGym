@@ -1,0 +1,34 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+.page{
+    width: 80%;
+  max-width: 960px;
+  margin: 250px auto;
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+body{
+     font: 14px/26px 'Bungee', Helvetica, Arial, sans-serif;
+  color: #222;
+  margin: 0px;
+  padding: 0px;
+  text-transform: uppercase;
+        
+}
+header{
+    font-size: 24px;
+    line-height: 48px;
+}
+
+h4{
+    font-family: 'Bungee Shade',cursive;
+    font-size: 25px;
+    
+    
+    
+}
+
